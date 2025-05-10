@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +173,24 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.tar.gz
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+>>>>>>> 2175406 (Add project files: script, README, LICENSE, requirements)

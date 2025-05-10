@@ -12,6 +12,10 @@ To run this tool, you will need the following Python packages:
 - `pyfiglet`
 - `colorama`
 - `termcolor`
+<<<<<<< HEAD
+=======
+- `pyglet`
+>>>>>>> 2175406 (Add project files: script, README, LICENSE, requirements)
 
 ## Installation
 
