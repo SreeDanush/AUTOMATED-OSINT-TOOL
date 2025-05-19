@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 import webbrowser
 from urllib.parse import quote_plus
